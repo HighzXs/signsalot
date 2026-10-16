@@ -1,0 +1,5 @@
+__pycache__/
+.claude/
+camera_padrao.txt
+hand_landmarker.task
+banco_libras.csv
